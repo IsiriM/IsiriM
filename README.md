@@ -9,6 +9,7 @@ I am passionate about **Finance & Banking Technology** and solving business prob
 * 🤝 I’m open to collaborating on projects involving business intelligence, data modeling, and finance technology.
 
 
+
 ## 🔥 Featured Project: InvestEd
 
 ### Financial Literacy & Investing Companion for Sri Lankans
@@ -31,7 +32,7 @@ React Native for mobile development, Node.js for backend services, Firebase for 
 ## 🌐 Connect With Me
 
 * **LinkedIn:** [linkedin.com/in/isirimasinghe](https://www.linkedin.com/in/isirimasinghe)
-* **Email:** [isiriwathsala2003@gmail.com](mailto:isiriwathsala2003@gmail.com)## Hi there 👋
+* **Email:** [isiriwathsala2003@gmail.com](mailto:isiriwathsala2003@gmail.com)
 
 <!--
 **IsiriM/IsiriM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
